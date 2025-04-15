@@ -1,14 +1,16 @@
-### study-of-basic-gates
+### Name: NATHER NABEEL S A C
+### Reg No: 24900919
+### EXPERIMENT NO: 1 : Study of basic gates
 
-**AIM:** 
+### AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+**EQUIPMENTS REQUIRED:**
 
 Software – Quartus prime 
 
-**Theory**
+**THEORY:**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -49,7 +51,7 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+### PROCEDURE: 
 
 1.	Type the program in Quartus software.
 
@@ -62,18 +64,20 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+### PROGRAM:
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ![Screenshot 2024-11-06 113025](https://github.com/user-attachments/assets/5803b612-3907-4d4a-9478-347dd9ec1e06)
 
- Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+### LOGIC SYMBOL & TRUTH TABLE:
+![WhatsApp Image 2024-11-07 at 11 33 33_16c10bec](https://github.com/user-attachments/assets/6c3f01ff-e2c0-4f8f-98f1-32ea2613c10b)
 
-**RTL realization Output:** 
+### RTL REALISATION OUTPUT: 
+![Screenshot 2024-11-06 110435](https://github.com/user-attachments/assets/505fbbf3-8043-4835-9d11-79a702266188)
 
-**RTL**
+### TIMING DIAGRAM:
+![Screenshot 2024-11-06 112652](https://github.com/user-attachments/assets/13229490-5361-4a0b-8b2a-ce3a6e13c9cf)
 
-**Result:**
-
+### RESULT:
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming sucessfully.
 
